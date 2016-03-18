@@ -1,6 +1,6 @@
 {
   "name": "ripemd160",
-  "version": "0.2.1",
+  "version": "0.2.0",
   "description": "Compute RIPEMD160 of bytes or strings.",
   "keywords": [
     "string",
@@ -17,7 +17,7 @@
     "mochify": "^2.1.0"
   },
   "repository": {
-    "url": "https://github.com/cryptocoinjs/ripemd160",
+    "url": "https://github.com/danielstreit/ripemd160",
     "type": "git"
   },
   "main": "./lib/ripemd160.js",
